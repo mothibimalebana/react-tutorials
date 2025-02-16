@@ -7,3 +7,5 @@ const Spinach = () => {
         </div>
     )
 }
+
+export default Spinach
